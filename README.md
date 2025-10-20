@@ -33,8 +33,8 @@ A modern, cross-platform task management application built with React Native and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/frontsunriver/chapterone-taskmanager.git
-   cd chapterone-taskmanager
+   git clone https://github.com/frontsunriver/jhonrel-rn-techscreen.git
+   cd jhonrel-rn-techscreen
    ```
 
 2. **Install dependencies**
